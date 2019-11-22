@@ -1,5 +1,5 @@
 def square_array(array)
-  array.each do |x| {
-   x * x 
-  }
+  ar   x * x 
+  }ray.each do |x| {
+
 end
